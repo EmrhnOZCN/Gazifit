@@ -1,0 +1,37 @@
+1.gun
+Isınma	Şınav	3 x (10,10,10)	
+	Bench Press	3 x (10,10,10)	
+	Incline Machine Press	3 x (10,10,10)	
+	Dumbell Pullover	3 x (10,10,10)	
+	Dumbell Fly	3 x (10,10,10)	
+	Tricep pushdown	4 x (10,10,10,10)	
+	Overhead Dumbell Extention	3 x (10,10,10)	
+	Bench Dips	3 x (12,10,8)	
+----------------------------------------
+2.gun
+Isınma	Koşu Bandı	Süre:10 dk Hız:6	
+	Seated Cable Lat Pulldown	3 x (10,10,10	
+	Reverse Grip Pulldown	3 x (10,10,10	
+	Seated Cable Row	3 x (10,10,10)	
+	Dumbell Row	3 x (10,10,10)	
+	Dumbell Curl	3 x (10,10,10)	
+	Hummer Curl	3 x (10,10,10)	
+	Concentration Curl	3 x (10,10,10)	
+----------------------------------------
+3.gun
+Isınma	Koşu Bandı	Süre:10 dk Hız:6	
+	Dumbell Shoulder Press	3 x (12,10,10)	
+	Dumbell Front Raise	3 x (10,10,10)	
+	Dumbell Side Lateral Raise	3 x (10,10,10)	
+	Barbell Upright-row	3 x (10,10,10)
+----------------------------------------
+4.gun
+Isınma	Koşu Bandı	Süre:10 dk Hız:6	
+	Leg Press	4 x (10,10,10,10)	
+	Leg Extention	3 x (12,10,10)	
+	Leg Curl	3 x (12,10,10)	
+	Barbell Calf Raises	3 x (10,10,10)	
+	Reverse Crunch	4 x (15,15,15,15)	
+	Toe Touches	4 x (15,15,15,15)	
+	Plank	tükenis(zamanla arttırın)
+----------------------------------------

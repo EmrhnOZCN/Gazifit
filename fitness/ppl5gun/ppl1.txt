@@ -1,0 +1,43 @@
+1.GUN
+Flat Barbell Bench Press	4 x 6-10
+Incline Bench Press	3 x 10-12
+Seated Shoulder Press	3 x 10-12
+Flat Bench Dumbell Flyes	3 x 12-15
+Standing Dumbell Lateral Raises	3 x 10-12
+Tricep Rope Pushdown	3 x 12-15
+EZ Bar Skullcrusher	3 x 10-12
+2.GUN
+Barbell Row	3 x 6-8
+Neutral Lat Pulldown	3 x 8-10
+Dumbbell Shrug	2 x 12-15
+Face Pull	2 x 12-15
+Barbell Curl	3 x 8-12
+Hammer Curl	3 x 12-15
+Leg Raises	3 x 12-15
+3.GUN
+Barbell Squat	3 x 6-8
+Romanian Deadlift	3 x 10-12
+Leg Press	3 x 8-10
+Barbell Lunges	3 x 10-12
+Leg Curl	3 x 15-20
+Calf press	3 x 10-12
+----------------------------------------
+4.GUN
+off
+----------------------------------------
+5.GUN
+Flat Barbell Bench Press	4 x 6-10
+Incline Bench Press	3 x 10-12
+Seated Shoulder Press	3 x 10-12
+Flat Bench Dumbell Flyes	3 x 12-15
+Standing Dumbell Lateral Raises	3 x 10-12
+Tricep Rope Pushdown	3 x 12-15
+6.GUN
+Barbell Row	3 x 6-8
+Neutral Lat Pulldown	3 x 8-10
+Dumbbell Shrug	2 x 12-15
+Face Pull	2 x 12-15
+Barbell Curl	3 x 8-12
+Hammer Curl	3 x 12-15
+7. GUN
+off

@@ -1,0 +1,53 @@
+1.GUN
+Göğüs:
+Bench Press: 5 Set 5 Tekrar
+Incline Dambıl Fly: 4 Set 10 Tekrar
+Dambıl Bench Press: 4 Set 8-12 Tekrar
+Omuz:
+Dambıl Omuz Press: 4 Set 8-12 Tekrar
+Lateral Raise: 4 Set 8-12 Tekrar
+Arka Kol:
+Pushdıwn: 4 Set 10-12 Tekrar
+2.GUN
+Sırt:
+Barfiks: 4 Set 8-10 Tekrar
+Barbell Row: 4 Set 6-10 Tekrar
+Arka Omuz:
+Face Pull: 4 Set 12-15 Tekrar
+Trapez:
+Shrug: 4 Set 12-15 Tekrar
+Biseps:
+Hammer Curl: 4 Set 8-12 Tekrar
+3.GUN
+Squat: 5 Set 5 Tekrar
+Leg Curl: 4 Set 8-12 Tekrar
+Bulgarian Split Squat: 3 Set 12-15 Tekrar
+4.GUN
+off
+5.gun
+Göğüs:
+Bench Press: 5 Set 5 Tekrar
+Dips: 4 Set 8-12 Tekrar
+Incline Dambıl Fly: 4 Set 10 Tekrar
+Dambıl Bench Press: 4 Set 8-12 Tekrar
+Omuz:
+Dambıl Omuz Press: 4 Set 8-12 Tekrar
+Lateral Raise: 4 Set 8-12 Tekrar
+Z Press: 2 Set 8-12 Tekrar
+Arka Kol:
+Pushdıwn: 4 Set 10-12 Tekrar
+6.GUN
+Sırt:
+Barfiks: 4 Set 8-10 Tekrar
+Barbell Row: 4 Set 6-10 Tekrar
+Pulldown: 4 Set 8-12 Tekrar
+Dambıl Row: 4 Set 8-12 Tekrar
+Arka Omuz:
+Face Pull: 4 Set 12-15 Tekrar
+Trapez:
+Shrug: 4 Set 12-15 Tekrar
+Biseps:
+Hammer Curl: 4 Set 8-12 Tekrar
+Incline Curl: 4 Set 8-12 Tekrar
+7.GUN
+off
